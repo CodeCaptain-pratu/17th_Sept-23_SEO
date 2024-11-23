@@ -1,0 +1,9 @@
+QUESTION:Define Favicon and give an illustrative example.
+Answer:1) Favicon stands for favorite icon.
+2) Favicon is tiny icon included along with the website
+3) Favicon is usually 16*16 pixels size
+4) Favicon stored in GIF, PNG or ICO format. 
+5) Favicon is displayed in places like the browser address bar,page tabs
+and bookmark menu
+6) They are used to improve the user experience and brand consistency.
+When a familier icon seen in the brower address bar.
